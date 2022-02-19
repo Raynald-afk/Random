@@ -1,4 +1,5 @@
 ### Intro
 This application is a command line program 
 which allows the user to interact with the networks around it's severs.
-The application is done.
+The application is done
+The application also generates a random alphabet 
