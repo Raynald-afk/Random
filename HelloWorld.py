@@ -1,6 +1,6 @@
 import string
 import random
 
-alphabet = string.ascii_lowercase
-
-print(random.choice(alphabet))
+names = ["Chordson","Peterson","Maison"]
+sample = random.sample(names)
+print(sample)
